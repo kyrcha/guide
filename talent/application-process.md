@@ -16,9 +16,11 @@ This document describes the source{d} hiring process from the point of view of t
 
 ### Skype/Zoom/Phone call
 
-- The developer has a quick call with the lead engineer of the team they applied to. This should be a general discussion that can last between 15-30 minutes. Its purpose is to get to know the background and experience of the developer, as well as allowing the developer to get to know source{d} better. It's expected that the developer has already done some basic research about source{d} and has specific questions about the role and/or the company to be expressed during the call. 
+- The developer has a quick call with the lead engineer of the team they applied to. This should be a general discussion that can last between 15-30 minutes. Its purpose is to get to know the background and experience of the developer, as well as allowing the developer to get to know source{d} better. It's expected that the developer has already done some basic research about source{d} and has specific questions about the role and/or the company to be expressed during the call.
 
 - There are notable exceptions to this, such as higher volume junior roles where we directly ask the developer to do the coding challenge before a call.
+
+- **IMPORTANT:** All calls require a good audio quality. You will need good internet connectivity and a good audio setup. Avoid using laptop integrated microphone and speakers, use external headphones and microphone, a headset or equivalent. Note that without ensuring a good setup, we will not be able to move on with the remote interview process.
 
 ### Coding Challenge
 
